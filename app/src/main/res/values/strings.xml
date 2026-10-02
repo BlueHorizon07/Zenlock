@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zenlock</string>
+    <string name="accessibility_label">Zenlock app blocking</string>
+    <string name="accessibility_summary">Lets Zenlock notice which app you just opened.</string>
+    <string name="accessibility_description">Zenlock needs to know which app moves to the foreground so it can enforce the limits, sleep window and pauses you set up. It reads nothing else, no screen content and no text you type, and nothing leaves your phone.</string>
+    <string name="filter_channel_name">Screen filter</string>
+    <string name="filter_channel_desc">Shown while the night warmth or dimming overlay is active.</string>
+    <string name="filter_notification_title">Screen filter on</string>
+    <string name="filter_notification_text">Tap to adjust warmth and dimming.</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ensō: a single open brush circle. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M 68 34 A 22 22 0 1 0 76 58"
+        android:strokeColor="#7FD3B4"
+        android:strokeWidth="7"
+        android:strokeLineCap="round" />
+</vector>
